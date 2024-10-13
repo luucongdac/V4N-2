@@ -1,5 +1,7 @@
 # V4N<sup>2</sup>
-
+https://trashman.wiki/keyboards/v4n4g0n
+https://trashman.wiki/files#v4n4g0n
+https://trashman.wiki/en/community/pcbs/monorail
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/coffeeforba)
 
 V4N<sup>2</sup> is a case for [V4N4G0N](https://trashman.wiki/keyboards/v4n4g0n)-compatible PCBs. Originally designed for [Monorail](https://trashman.wiki/en/community/pcbs/monorail) which has 2 USB ports (only 1 is usable at a time, **do not plug both ports at the same time**), hence the <sup>2</sup> name.
